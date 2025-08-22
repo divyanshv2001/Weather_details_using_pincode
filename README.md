@@ -24,7 +24,12 @@ A simple **Spring Boot REST API** that fetches and caches weather information fo
 - **MySQL**
 - **OpenWeather API**
 
----
+---## ⚙️ Setup & Run
+
+### 1. Clone repo
+```bash
+git clone https://github.com/your-username/weather-api.git
+cd weather-api
 
 ## ⚙️ Setup & Run
 
